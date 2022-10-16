@@ -1,2 +1,2 @@
 # coursera-mod2
-Coursera test repository
+Coursera Mod2 repository
